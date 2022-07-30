@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/28 19:55:37.012.pas,D:\delphi\Unit1.pas=D:\delphi\Start.pas</Transaction>
+    <Transaction>2022/07/28 19:55:37.012.dfm,D:\delphi\Unit1.dfm=D:\delphi\Start.dfm</Transaction>
+    <Transaction>2022/07/28 19:55:59.069.pas,D:\delphi\Start.pas=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\RockPaperScissors.pas</Transaction>
+    <Transaction>2022/07/28 19:55:59.069.dfm,D:\delphi\Start.dfm=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\RockPaperScissors.dfm</Transaction>
+    <Transaction>2022/07/28 19:56:08.524.dproj,D:\delphi\Project1.dproj=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\RockPaperScissors_P.dproj</Transaction>
+    <Transaction>2022/07/28 19:56:44.347.pas,C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Unit2.pas=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Rock.pas</Transaction>
+    <Transaction>2022/07/28 19:56:44.347.dfm,C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Unit2.dfm=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Rock.dfm</Transaction>
+    <Transaction>2022/07/28 20:03:38.678.pas,C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Rock.pas=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Result.pas</Transaction>
+    <Transaction>2022/07/28 20:03:38.678.dfm,C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Rock.dfm=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Result.dfm</Transaction>
+    <Transaction>2022/07/28 21:44:48.579.pas,C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Result.pas=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Results.pas</Transaction>
+    <Transaction>2022/07/28 21:44:48.579.dfm,C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Result.dfm=C:\Users\luigi\OneDrive\Documents\RockPaperScissors\Results.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
